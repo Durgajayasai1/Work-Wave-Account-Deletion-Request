@@ -20,7 +20,7 @@ Upon account deletion, users will lose the following:
 
 To access the Account Deletion Request page, visit the following URL:
 
-[https://workwave.netlify.app](https://workwave.netlify.app)
+[https://workwave.netlify.app](https://workwave-delreq.netlify.app)
 
 ## Usage
 
